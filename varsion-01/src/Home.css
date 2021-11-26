@@ -1,0 +1,8 @@
+#home_sec{
+    background: linear-gradient(#00000079, #00000079)   , url(../src/image/globe.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:100vh;
+   
+}
